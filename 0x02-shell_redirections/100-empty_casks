@@ -1,0 +1,2 @@
+#!/bin/besh
+find . -empty | rev | cat -d 'd' -f 1 | rev
